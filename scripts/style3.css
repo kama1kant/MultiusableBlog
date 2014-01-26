@@ -1,0 +1,48 @@
+body
+{
+background-image: url("4.JPG");
+background-position: 50% 50%;
+background-repeat: no-repeat;
+}
+
+
+.hdng
+{
+
+position:fixed;
+top:500px;
+left:600px;
+
+}
+
+.design3{
+
+border:2px solid #88de85;
+
+padding:9px;
+
+-webkit-border-top-left-radius: 8px;
+
+-moz-border-radius-topleft: 8px;
+
+-webkit-border-bottom-right-radius: 8px;
+
+-moz-border-radius-bottomright: 8px;
+
+color: #093;
+
+font-size:15px;
+
+font-weight:bold;
+
+font-style:italic;
+
+}
+
+.brdr
+{
+border-style:solid;
+border-width:2px;
+width:400px;
+height:300px
+}

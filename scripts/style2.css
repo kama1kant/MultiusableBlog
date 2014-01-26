@@ -1,0 +1,17 @@
+body
+{
+
+background-image: url("2.JPG");
+background-position: 50% 50%;
+background-repeat: no-repeat;
+overflow-x: hidden;
+background-attachment: fixed;
+}
+.hdng
+{
+position:relative;
+top:0px;
+left:400px;
+}
+
+
